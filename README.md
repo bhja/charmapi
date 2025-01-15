@@ -5,6 +5,8 @@ Rerun the script to see the refresh token works as expected. 3 endpoints have be
    (https://api.chartmetric.com/apidoc/#api-Artist-getArtistListByStats)
 2. There is another endpoint which gives the details of artist monthly listener by the city the listeners belong to .
    (https://api.chartmetric.com/apidoc/#api-Artist-GetWherePeopleListenInsights)
+
+3. In this sample the artist Bruon Mar's spotify Id is passed to fetch charm_artist_id and then the count of listeners is retrieved by city
    
 <img width="1680" alt="Screenshot 2025-01-15 at 2 32 46 PM" src="https://github.com/user-attachments/assets/6bb49f72-ddf6-484a-bf4c-d1de8ece46f9" />
 
