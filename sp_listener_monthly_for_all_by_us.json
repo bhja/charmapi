@@ -1,0 +1,577 @@
+{
+    "obj": {
+        "length": 10,
+        "data": [
+            {
+                "chartmetric_artist_id": 26134,
+                "name": "Poul Ruders",
+                "code2": "US",
+                "genres": "contemporary classical, nordic contemporary classical, classical, danish contemporary classical, instrumental, opera, north american, united states, north american classical, north american instrumental, us classical, us instrumental",
+                "cpp_rank": 338743,
+                "rank_eg": 1827656,
+                "rank_fb": 166229,
+                "spotify_popularity": 5,
+                "spotify_followers": 709,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.705219,
+                "spotify_followers_to_listeners_ratio": 1.418,
+                "deezer_fans": 28,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "dk",
+                        "listeners": 16,
+                        "name": "Copenhagen"
+                    },
+                    {
+                        "code2": "sg",
+                        "listeners": 11,
+                        "name": "Singapore"
+                    },
+                    {
+                        "code2": "it",
+                        "listeners": 8,
+                        "name": "Milan"
+                    },
+                    {
+                        "code2": "dk",
+                        "listeners": 8,
+                        "name": "Frederiksberg"
+                    },
+                    {
+                        "code2": "gb",
+                        "listeners": 6,
+                        "name": "London"
+                    }
+                ],
+                "signed": true
+            },
+            {
+                "chartmetric_artist_id": 45732,
+                "name": "Mildred Bailey & Her Swing Band",
+                "code2": "US",
+                "genres": "pop, jazz, easy listening, brass, big band, north american, united states, north american jazz, us jazz",
+                "cpp_rank": 799420,
+                "rank_eg": 842444,
+                "rank_fb": 593338,
+                "spotify_popularity": 3,
+                "spotify_followers": 63,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 7.936508,
+                "spotify_followers_to_listeners_ratio": 0.126,
+                "deezer_fans": 1,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "us",
+                        "listeners": 12,
+                        "name": "Los Angeles"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 10,
+                        "name": "New York City"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 10,
+                        "name": "Brooklyn"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 8,
+                        "name": "Chicago"
+                    },
+                    {
+                        "code2": "ca",
+                        "listeners": 6,
+                        "name": "Montreal"
+                    }
+                ],
+                "signed": false
+            },
+            {
+                "chartmetric_artist_id": 67298,
+                "name": "William Stromberg",
+                "code2": "US",
+                "genres": "classical, soundtrack, original score, holiday, soundtracks, north american, united states, north american soundtrack, us soundtrack",
+                "cpp_rank": 382156,
+                "rank_eg": 927272,
+                "rank_fb": 202456,
+                "spotify_popularity": 23,
+                "spotify_followers": 443,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 1.128668,
+                "spotify_followers_to_listeners_ratio": 0.886,
+                "deezer_fans": 16,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "us",
+                        "listeners": 8,
+                        "name": "New York City"
+                    },
+                    {
+                        "code2": "gb",
+                        "listeners": 8,
+                        "name": "London"
+                    },
+                    {
+                        "code2": "es",
+                        "listeners": 8,
+                        "name": "Madrid"
+                    },
+                    {
+                        "code2": "es",
+                        "listeners": 7,
+                        "name": "Barcelona"
+                    },
+                    {
+                        "code2": "fr",
+                        "listeners": 6,
+                        "name": "Paris"
+                    }
+                ],
+                "signed": true
+            },
+            {
+                "chartmetric_artist_id": 112438,
+                "name": "Money Mafia",
+                "code2": "US",
+                "genres": "hip-hop/rap, hip-hop, r&b/soul, gangsta rap, north american, united states, north american hip-hop/rap, us hip-hop/rap",
+                "cpp_rank": 461472,
+                "rank_eg": 418917,
+                "rank_fb": 458132,
+                "spotify_popularity": 6,
+                "spotify_followers": 1387,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.36049,
+                "spotify_followers_to_listeners_ratio": 2.774,
+                "deezer_fans": 27,
+                "facebook_likes": 6243,
+                "facebook_talks": 0,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": 47,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "us",
+                        "listeners": 14,
+                        "name": "Houston"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 13,
+                        "name": "Dallas"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 13,
+                        "name": "Denver"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 10,
+                        "name": "Oklahoma City"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 10,
+                        "name": "Phoenix"
+                    }
+                ],
+                "signed": false
+            },
+            {
+                "chartmetric_artist_id": 242621,
+                "name": "Francesca Monte",
+                "code2": "US",
+                "genres": "dance, hip-hop/rap, jazz, pop, electronic, latin, edm, mpb, north american, united states, north american pop, north american electronic, north american dance, us pop, us electronic, us dance",
+                "cpp_rank": 829456,
+                "rank_eg": 1225160,
+                "rank_fb": 553367,
+                "spotify_popularity": 7,
+                "spotify_followers": 1118,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.447227,
+                "spotify_followers_to_listeners_ratio": 2.236,
+                "deezer_fans": 1046,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "it",
+                        "listeners": 10,
+                        "name": "Rome"
+                    },
+                    {
+                        "code2": "it",
+                        "listeners": 10,
+                        "name": "Milan"
+                    },
+                    {
+                        "code2": "br",
+                        "listeners": 7,
+                        "name": "São Paulo"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 6,
+                        "name": "San Antonio"
+                    },
+                    {
+                        "code2": "jp",
+                        "listeners": 6,
+                        "name": "Tokyo"
+                    }
+                ],
+                "signed": false
+            },
+            {
+                "chartmetric_artist_id": 272391,
+                "name": "Anestis Mantas",
+                "code2": "US",
+                "genres": "death metal, worldwide, world, others, european, greek, north american, united states",
+                "cpp_rank": 667819,
+                "rank_eg": 466054,
+                "rank_fb": 1641437,
+                "spotify_popularity": 6,
+                "spotify_followers": 200,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 2.5,
+                "spotify_followers_to_listeners_ratio": 0.4,
+                "deezer_fans": 23,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "gr",
+                        "listeners": 156,
+                        "name": "Athens"
+                    },
+                    {
+                        "code2": "gr",
+                        "listeners": 44,
+                        "name": "Thessaloniki"
+                    },
+                    {
+                        "code2": "au",
+                        "listeners": 27,
+                        "name": "Sydney"
+                    },
+                    {
+                        "code2": "au",
+                        "listeners": 24,
+                        "name": "Melbourne"
+                    },
+                    {
+                        "code2": "cy",
+                        "listeners": 9,
+                        "name": "Nicosia"
+                    }
+                ],
+                "signed": true
+            },
+            {
+                "chartmetric_artist_id": 362924,
+                "name": "Bodhi",
+                "code2": "US",
+                "genres": "kirtan, new tribe, world fusion, healing, meditation, electronic, worldwide, new age, christian, ambient, north american, united states, north american ambient, us ambient",
+                "cpp_rank": 168640,
+                "rank_eg": 306064,
+                "rank_fb": 76923,
+                "spotify_popularity": 8,
+                "spotify_followers": 936,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.534188,
+                "spotify_followers_to_listeners_ratio": 1.872,
+                "deezer_fans": null,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": 2838,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": 56415,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "us",
+                        "listeners": 12,
+                        "name": "San Francisco"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 8,
+                        "name": "Phoenix"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 7,
+                        "name": "Oakland"
+                    },
+                    {
+                        "code2": "au",
+                        "listeners": 7,
+                        "name": "Sydney"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 7,
+                        "name": "San Jose"
+                    }
+                ],
+                "signed": false
+            },
+            {
+                "chartmetric_artist_id": 373565,
+                "name": "Kitty White",
+                "code2": "US",
+                "genres": "jazz, rock, singer/songwriter, r&b/soul, eras, oldies, north american, united states, north american eras, us eras",
+                "cpp_rank": 291188,
+                "rank_eg": 438852,
+                "rank_fb": 167405,
+                "spotify_popularity": 4,
+                "spotify_followers": 671,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.745156,
+                "spotify_followers_to_listeners_ratio": 1.342,
+                "deezer_fans": 67,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": 47,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "be",
+                        "listeners": 17,
+                        "name": "Brussels"
+                    },
+                    {
+                        "code2": "ca",
+                        "listeners": 10,
+                        "name": "Toronto"
+                    },
+                    {
+                        "code2": "es",
+                        "listeners": 8,
+                        "name": "Barcelona"
+                    },
+                    {
+                        "code2": "de",
+                        "listeners": 6,
+                        "name": "Berlin"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 6,
+                        "name": "Chicago"
+                    }
+                ],
+                "signed": true
+            },
+            {
+                "chartmetric_artist_id": 519854,
+                "name": "Jeezy Mula",
+                "code2": "US",
+                "genres": "nyc rap, brooklyn drill, hip-hop/rap, european, uk drill, uk hip-hop, north american, united states, north american hip-hop/rap, us hip-hop/rap",
+                "cpp_rank": 195497,
+                "rank_eg": 160211,
+                "rank_fb": 360526,
+                "spotify_popularity": 5,
+                "spotify_followers": 2612,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.191424,
+                "spotify_followers_to_listeners_ratio": 5.224,
+                "deezer_fans": 8,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": 140792,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "us",
+                        "listeners": 73,
+                        "name": "Brooklyn"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 41,
+                        "name": "New York City"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 31,
+                        "name": "The Bronx"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 18,
+                        "name": "Queens"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 16,
+                        "name": "Newark"
+                    }
+                ],
+                "signed": false
+            },
+            {
+                "chartmetric_artist_id": 531420,
+                "name": "Cram",
+                "code2": "US",
+                "genres": "hip-hop/rap, alternative, r&b/soul, north american, united states, north american hip-hop/rap, us hip-hop/rap",
+                "cpp_rank": 673465,
+                "rank_eg": 1886576,
+                "rank_fb": 411594,
+                "spotify_popularity": 6,
+                "spotify_followers": 637,
+                "spotify_monthly_listeners": 500,
+                "spotify_listeners_to_followers_ratio": 0.784929,
+                "spotify_followers_to_listeners_ratio": 1.274,
+                "deezer_fans": null,
+                "facebook_likes": null,
+                "facebook_talks": null,
+                "twitter_followers": null,
+                "twitter_retweets": null,
+                "instagram_followers": null,
+                "youtube_channel_views": null,
+                "youtube_subscribers": null,
+                "youtube_daily_video_views": null,
+                "youtube_monthly_video_views": null,
+                "wikipedia_views": null,
+                "soundcloud_followers": null,
+                "bandsintown_followers": null,
+                "tiktok_followers": null,
+                "tiktok_likes": null,
+                "sp_where_people_listen": [
+                    {
+                        "code2": "us",
+                        "listeners": 47,
+                        "name": "Minneapolis"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 46,
+                        "name": "The Bronx"
+                    },
+                    {
+                        "code2": "us",
+                        "listeners": 16,
+                        "name": "Saint Paul"
+                    },
+                    {
+                        "code2": "au",
+                        "listeners": 10,
+                        "name": "Brisbane"
+                    },
+                    {
+                        "code2": "au",
+                        "listeners": 10,
+                        "name": "Sydney"
+                    }
+                ],
+                "signed": false
+            }
+        ]
+    }
+}
